@@ -1,0 +1,2 @@
+# Example file to check every 15 minutes to put in /etc/cron.d/
+*/15 * * * * /root/check_vm_status.sh
